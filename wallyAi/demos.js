@@ -26,7 +26,7 @@ __SYD.demos = () =>{
                     style:"height:fit-content;width:100%;display:inherit;justify-content:inherit;gap:20px;align-items:inherit;flex-wrap:inherit;"
                 },
                 [
-                    __SYD.createMiniAuxTabs({i_class:"fa-brands fa-android" , text:"Wally AI Casino Bot" , link:""}),
+                    __SYD.createMiniAuxTabs({i_class:"fa-brands fa-android" , text:"Wally AI Casino Bot" , link:"https://t.me/Wally_ai_casino_bot"}),
                     __SYD.createMiniAuxTabs({i_class:"fa-brands fa-magento" , text:"Wally AI agent" , link:"/agent/agent_creation/create.html"}),
                     __SYD.createMiniAuxTabs({i_class:"fa-solid fa-file-signature" , text:"Smart Contract Deploy" , link:""})
                 ]

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WALLY AI</title>
+    <link rel="shortcut icon" href="./assets/fav_icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="./_.css">
+    <script src="https://kit.fontawesome.com/ae60a47ee9.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <!-- <input type="color"> -->
+    <div id="root"></div>
+    <script>
+        let togMute = () =>{
+            document.getElementById('autoplay').muted = document.getElementById('autoplay').muted === true ? false : true;
+            document.getElementById('aud').style.backgroundImage = document.getElementById('aud').style.backgroundImage === `url("./assets/aud-d.png")` ? `url("./assets/aud-e.png")` : `url("./assets/aud-d.png")`;
+        }
+    </script>
+    <script type="module" src="./main.js"></script>
+</body>
+</html>

@@ -304,7 +304,7 @@ __SYD.chatTabs__agent = ({msg = ""}) =>{
             __c(
                 "i",
                 {
-                    style:"height:40px;width:40px;display:flex;align-items:center;justify-content:center;border-radius:50%;font-size:20px;min-width:20px;color:#0066FF;border:2px solid #246696;",
+                    style:"min-height:40px;min-width:40px;display:flex;align-items:center;justify-content:center;border-radius:50%;font-size:20px;min-width:20px;color:#246696;border:2px solid #246696;",
                     class:"fa-solid fa-robot"
                 },
                 [
@@ -361,7 +361,7 @@ __SYD.chatTabs__user = ({msg = ""}) =>{
             __c(
                 "i",
                 {
-                    style:"height:40px;width:40px;display:flex;align-items:center;justify-content:center;border-radius:50%;font-size:20px;min-width:20px;border:2px solid #246696;color:#F4D03F;",
+                    style:"min-height:40px;min-width:40px;display:flex;align-items:center;justify-content:center;border-radius:50%;font-size:20px;min-width:20px;border:2px solid #246696;color:#F4D03F;",
                     class:"fa-solid fa-user-secret"
                 },
                 [

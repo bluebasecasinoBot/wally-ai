@@ -16,6 +16,7 @@ __SYD.comm = () =>{
                     padding:'20px 10px',
                     backgroundPosition:"left bottom",
                     marginBottom:"unset",
+                    minHeight:"unset"
                     // transform:'unset'
                 }
             }),

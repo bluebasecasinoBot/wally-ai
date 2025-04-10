@@ -109,7 +109,7 @@ __SYD.page1Socials = () =>{
         [
             // __SYD.page1SocialBtn({contentSrc:'dex' , link:location.href}),
             __SYD.page1SocialBtn({contentSrc:'tel' , link:"https://t.me"}),
-            __SYD.page1SocialBtn({contentSrc:'x'})
+            __SYD.page1SocialBtn({contentSrc:'x' , link:"https://x.com/wallyai_base"})
         ]
     )
 }

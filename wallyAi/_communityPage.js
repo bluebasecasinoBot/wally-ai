@@ -25,7 +25,7 @@ __SYD.comm = () =>{
             __c(
                 "div",
                 {
-                    style:`min-height:100vh;height:fit-content;width:100%;display:flex;flex-direction:${__p(['comm','__flex'],'row')};justify-content:flex-start;max-width:1600px;background:transparent;border-radius:15px;`
+                    style:`height:fit-content;width:100%;display:flex;flex-direction:${__p(['comm','__flex'],'row')};justify-content:flex-start;max-width:1600px;background:transparent;border-radius:15px;`
                 },
                 [
                     // __c(

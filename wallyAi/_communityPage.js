@@ -40,7 +40,7 @@ __SYD.comm = () =>{
                     __c(
                         'div',
                         {
-                            style:'width:100%;height:fit-content;display:flex;justify-content:flex-start;align-items:center;flex-direction:column;gap:20px;padding:20px 30px;background:transparent;border-radius:inherit;border-top-left-radius:unset;border-bottom-left-radius:unset;'
+                            style:'width:100%;height:fit-content;display:flex;justify-content:flex-start;align-items:center;flex-direction:column;gap:20px;background:transparent;border-radius:inherit;border-top-left-radius:unset;border-bottom-left-radius:unset;'
                         },
                         [
                             __c('h1',{class:'',style:`height:fit-content;width:100%;text-align:center;padding-left:10px;font-family:sunrise;font-weight:700;font-size:${__p(['comm','__size'],'4.5rem')};color:#fff;`},['RoadMap']),

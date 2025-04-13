@@ -49,41 +49,41 @@ __SYD.comm = () =>{
                             __c("div" , {style:"margin-top:30px;min-height:100%;height:fit-content;width:100%;position:relative;display:flex;flex-direction:column;gap:10px;"},[
                                 __c("div" , {style:"height:100%;width:12px;position:absolute;top:0px;left:50%;transform:translateX(-50%);background:linear-gradient(to right, rgb(8, 30, 50),rgb(18, 61, 92),rgb(80, 130, 170),rgb(18, 61, 92),rgb(8, 30, 50));" , class:"rod"}),
                                 __SYD.h_t_buy_imgTemplate({index:1 , titleText:`
-- Concept development and core architecture design  
-- Team assembly & partnerships (developers, AI specialists, casino providers)  
-- Launch of Wally AI website & official social media channels  
-- MVP launch of smart contract generator  
-- Initial tokenomics design and audit preparation  
-- Community building: AMAs, teasers, early access whitelist campaign  
+Launched the idea & smart contract
+
+Built the brand, website, and socials
+
+Kicked off community and viral memes
                                 `}),
                                 __SYD.h_t_buy_imgTemplate({type:"right" , index:2 , titleText:
                                     `
-                                    - Official launch of $Wally token on Base Chain  
-- Full release of smart contract generator with advanced features  
-- Beta launch of AI builder module (users create and deploy AI bots)  
-- First integrations with external platforms and APIs  
-- Beta testing of casino bot with community feedback  
-- Marketing push: influencer collaborations, media coverage, ads
+Listed on Uniswap (DEX)
+
+Dropped WallyBot v0.1 (AI meme bot)
+
+Hit 1,000 holders with NFT airdrops
+
+Listed on CoinGecko & CoinMarketCap
                                     `
                                 }),
                                 __SYD.h_t_buy_imgTemplate({index:3 , titleText:
                                     `
-                                    - Wally Casino full release: full game suite, leaderboards, and rewards  
-- Launch of AI bot marketplace (buy/sell AI bots)  
-- Launch staking platform for $Wally holders  
-- DAO setup for community governance and proposals  
-- Research & development for future cross-chain bridge  
-- Strategic partnerships with AI and blockchain ecosystems
+Upgraded WallyBot with smarter features
+
+Released merch
+
+Targeted CEX listings
+
+Funded mini dev projects through Wally Labs
                                     `
                                 }),
                                 __SYD.h_t_buy_imgTemplate({type:"right" , index:4 , titleText:
                                     `
-                                    - AI enhancement: deploy self-learning bots and bot-to-bot collaboration  
-- Expand Wally Casino with new game modes and NFT-based rewards  
-- Launch cross-chain capabilities (Wally AI goes multi-chain)  
-- AI-as-a-Service (AIaaS) platform launch for businesses  
-- Grow community to 100k+ active users  
-- Start development of Roadmap 2.0 with community feedback
+Tested WallyChain (L2 concept)
+
+Launched mini-games & meme competitions
+
+Built an NFT marketplace for community creators
                                     `
                                 })
                             ])
